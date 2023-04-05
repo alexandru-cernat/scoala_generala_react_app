@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   const [count, setCount] = useState(0);
 
-  return <div className="App">hello from branch!!</div>;
+  return <div className="App">te salut din branch!!</div>;
 }
 
 export default App;
